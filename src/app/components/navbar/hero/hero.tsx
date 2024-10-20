@@ -10,7 +10,7 @@ const HeroSection = () => {
         <div className="relative z-10 text-white">
           <h1 className="text-5xl font-bold mb-4">Welcome to Fashion Hub</h1>
           <p className="text-xl mb-8">
-            Discover the latest trends in women's and men's fashion
+            Discover the latest trends in women&apos;s and men&apos;s fashion
           </p>
           <div className="flex justify-center space-x-4">
             <a

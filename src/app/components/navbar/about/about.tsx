@@ -8,7 +8,7 @@ export default function About() {
           
           <p className="text-lg text-gray-900 max-w-2xl mx-auto mb-6">
             At Fashion Hub, we bring you the latest trends, timeless pieces, and
-            everything in between. Whether you're looking for something casual,
+            everything in between. Whether you are looking for something casual,
             elegant, or bold, we have a carefully curated collection just for you.
           </p>
           <p className="text-lg text-gray-900 max-w-2xl mx-auto mb-6">
